@@ -1,2 +1,4 @@
 # Clone-Spotify
-Projeto de estudo feito com HTML5 e CSS3
+
+Esse foi o projeto onde eu aprendi a fazer o clone do Spotify
+usando HTML% e CSS3.
